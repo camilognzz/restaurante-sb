@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restaurante-sb/static/css/main.43e3deb2.css",
+    "main.js": "/restaurante-sb/static/js/main.aa02d8bb.js",
+    "static/media/about-background-image.png": "/restaurante-sb/static/media/about-background-image.4c1942b9515bb2b6234b.png",
+    "static/media/home-banner-image.png": "/restaurante-sb/static/media/home-banner-image.c2e414d7c91fd4f3c20f.png",
+    "static/media/john-doe-image.png": "/restaurante-sb/static/media/john-doe-image.e12445a65cd0922033ef.png",
+    "static/media/home-banner-background.png": "/restaurante-sb/static/media/home-banner-background.f7f35ed740702d60b612.png",
+    "static/media/Logo.svg": "/restaurante-sb/static/media/Logo.d15c8af95fb0df2c396fcb65a24c8f2f.svg",
+    "index.html": "/restaurante-sb/index.html",
+    "main.43e3deb2.css.map": "/restaurante-sb/static/css/main.43e3deb2.css.map",
+    "main.aa02d8bb.js.map": "/restaurante-sb/static/js/main.aa02d8bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e3deb2.css",
+    "static/js/main.aa02d8bb.js"
+  ]
+}
